@@ -19,7 +19,7 @@ C++ based OFDM simulator yielding SNR versus BER performance.
 4, Receiver_operations.h contains all varaiables and functions related to the receiver
 5, analysis.h contains all functions to analyse system performance such as BER
 
-Every header file is supported by a sourse file of the same name containing the relevant function definitions
+Every header file is supported by a source file of the same name containing the relevant function definitions
 
 
 **Where to start ?**
