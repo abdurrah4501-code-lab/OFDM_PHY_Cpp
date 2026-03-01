@@ -8,6 +8,7 @@ C++ based OFDM simulator yielding SNR versus BER performance.
 **Features**
 
 1, Constellation: QAM (Order 2,4,16,64,...)  
+
 2, Channel: Multipath channel of any power delay profile  
 
 3, Equalization: Zero forcing equalization
